@@ -1,0 +1,48 @@
+/* add your CSS here */
+body{
+  font-family:Arial, sans-serif;
+}
+
+.card{
+  width:350px;
+  margin:20px;
+  border: 2px solid #044D75;
+  border-radius:5px;
+  box-shadow:7px 7px 2px 0px #044D75;
+  /*box-shadow:7px 7px 2px 0px #05334D;*/
+}
+
+.card-title{
+  padding: 7px;
+}
+
+.card-image{
+  box-shadow:4px 4px 2px 0px black;
+  display: block;
+  margin: 0 auto;
+}
+
+.card-information{
+  width: 320px;
+  border: 2px solid #036FA8;
+  border-radius:5px;
+  margin: 7px;
+  padding: 5px;
+
+  box-shadow:3px 3px 2px 0px #036FA8;
+
+}
+
+.intresting-fact{
+  padding: 5px;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.card-list{
+  list-style: none;
+}
+
+.list-label{
+  font-weight: bold;
+}
